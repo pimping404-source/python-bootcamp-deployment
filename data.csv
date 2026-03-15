@@ -1,0 +1,5 @@
+product_id,item_name,category,price,quantity,date
+1,Coffee Beans,Groceries,18.50,50,2026-03-10
+2,Milk Carton,Dairy,3.99,100,2026-03-11
+3,Paper Filters,Supplies,5.50,200,2026-03-12
+4,Espresso Cup,Kitchenware,12.00,30,2026-03-13
